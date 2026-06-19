@@ -1,5 +1,6 @@
+[![build](https://github.com/crunkazcanbe/MCEconomy3/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/crunkazcanbe/MCEconomy3/actions/workflows/build.yml)
+
 ﻿# MCEconomy3
-[![Build Status](https://travis-ci.org/shift02/MCEconomy3.svg?branch=master)](https://travis-ci.org/shift02/MCEconomy3)
 ![Minecraft version 1.12.2](https://img.shields.io/badge/mc%20version-1.12.2-brightgreen.svg)
 [![MMPL_J](https://img.shields.io/badge/license-MMPL__%20J-blue.svg)](http://tsoft-web.com/nokiyen/minecraft/modding/MMPL_J)
 
